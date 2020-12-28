@@ -1,0 +1,84 @@
+body {
+  background-color: #00ccff;
+}
+
+.wrapper {
+background-color: white;
+width: 1000px;
+height:1100px;
+border: 10px solid blue;
+margin: auto;
+margin-top: 50px;
+ border-radius:50px;
+}
+
+.title {
+font-size: 30px;
+text-align: center;
+}
+
+.subtitle {
+font-size: 20px;
+text-align: center;
+color: blackWS;
+}
+
+
+.textwrapper {
+background-color: #0066ff;
+width: 100px;
+height: 50px;
+display: inline;
+margin-right: 10px;
+font-size: 20px;
+}
+
+a:hover {
+  background:#868686;
+}
+
+
+.textmargin {
+margin: 5px;
+}
+
+#logo {
+float: left;
+height: 350px;
+width: 350px;
+}
+
+nav li a {
+ color: black;
+padding: 10px;
+margin: auto;
+text-decoration: none;
+}
+
+nav ul {
+list-style: none;
+margin-left: 150px;
+margin-right: 150px;
+margin-top: 50px;
+padding: 0;
+background-color:white;
+}
+
+nav li  {
+ display: inline;
+ line-height: 50px;
+ margin: 50px;
+}
+
+.fortnitelogo {
+position: absolute;
+height: 300px;
+width: 250px;
+}
+
+.rocketleaguelogo {
+position: absolute;
+height: 300px;
+width: 200px;
+
+}
